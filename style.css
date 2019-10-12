@@ -1,0 +1,47 @@
+<html>
+<head>
+<title>Hello hacktober</title>
+<body>
+ <font color="white"><h1 align="center">hello!</h1></font>
+        <font color="red">
+        <ul type="square">
+            <li>HINDI</li>
+            <LI>SANSKRIT</LI>
+            <LI>ENGLISH</LI>
+            <UL type="circle">
+                <LI>Old english</LI>
+                <li>New english</li>
+            </UL>
+            <li> SPANISH</li>
+        </ul>
+<hr>
+<hr>
+        <dl>
+            <dt>Tea</dt>
+            <dd>Tea is hot</dd>
+            <dt>Milk</dt>
+            <dd>cold/hot</dd>
+        
+        </dl>
+        <pre>
+            Roses are red
+            Sky is Blue
+            Sugar is sweet
+            And So are you
+        </pre>
+    <!--
+        <b>Name:</b>
+        <br>
+        <textarea name="address" rows="2" cols="2" max="4"></textarea>
+    -->
+<b>User Name
+    </b>
+    <br>
+    <input type="text">
+<br>
+        <b>Password</b>
+        <br>
+        <input type="password">
+        </font>
+    </head>
+</html>
